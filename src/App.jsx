@@ -38,7 +38,7 @@ return(
 <GanadoProvider>
 
 
-<BrowserRouter>
+<BrowserRouter basename="/agro-valle">
 
 
 <Routes>
